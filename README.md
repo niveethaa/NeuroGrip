@@ -8,7 +8,7 @@
 
 Built in 24 hours by a team of 4 at **BioHacks 2026**, McMaster University (Wearable Devices and Quality of Life track).
 
-![NeuroGrip Landing Page](./docs/neurogrip-landing-page.png)
+![NeuroGrip Landing Page](https://github.com/niveethaa/NeuroGrip/blob/a9d9e7fde5f91137652f1792824f6c38bb487fa0/docs/neurogrip-landing-page.png)
 
 **Live website:** [add your Vultr link or domain here]
 
@@ -65,10 +65,10 @@ Most assistive devices end up unused because they don't match what the person wa
 4. **Release:** while he writes, his pinky rests on a palm sensor. Lifting it releases the tendon slowly. A caregiver backup button also releases it.
 5. **Remember:** every grip is logged to **Tiger Data**. The **Gemini API** reads the trends and writes a summary for Alex, a report for his clinic, and recommended brace settings (clamped to hard safety limits in code).
 
-![NeuroGrip glove diagram](./docs/glove-diagram.png)
+![NeuroGrip glove diagram](https://github.com/niveethaa/NeuroGrip/blob/a9d9e7fde5f91137652f1792824f6c38bb487fa0/docs/glove-diagram.png)
 *Palm side: touch sensors on the forefinger and under the pinky, a cable tendon from the thumb to a servo on the forearm.*
 
-![NeuroGrip brace simulator](./docs/simulator.png)
+![NeuroGrip brace simulator](https://github.com/niveethaa/NeuroGrip/blob/a9d9e7fde5f91137652f1792824f6c38bb487fa0/docs/stimulator.png)
 *The forefinger finds the pen, then the servo pulls the tendon to press the thumb in and hold the grip.*
 
 
