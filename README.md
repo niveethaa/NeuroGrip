@@ -10,7 +10,7 @@ Built in 24 hours by a team of 4 at **BioHacks 2026**, McMaster University (Wear
 
 ![NeuroGrip Landing Page](https://github.com/niveethaa/NeuroGrip/blob/a9d9e7fde5f91137652f1792824f6c38bb487fa0/docs/neurogrip-landing-page.png)
 
-**Live website:** [add your Vultr link or domain here]
+**Live website:** http://getagrip.design/
 
 
 ## Team Information
